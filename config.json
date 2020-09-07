@@ -1,0 +1,13 @@
+{
+    "server": "172.30.69.147",
+    "server_port": 25,
+    "quic_port": 26,
+    "udp_port": 25,
+    "local_udp_port": 9022,
+    "local": "127.0.0.1",
+    "local_port": 9023,
+    "which": "tcp",
+    "method": "CHACHA-20",   
+    "password": "Evan$%#@!#$@!123",
+    "timeout": 600
+}
